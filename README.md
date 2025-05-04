@@ -1,2 +1,2 @@
 # BrainNotes
-Я шрэк
+BrainNotes is good product.
